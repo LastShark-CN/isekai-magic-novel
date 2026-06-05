@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 📖 阅读指南
+    url: https://github.com/LastShark-CN/异世界魔法泄漏到现实/blob/main/README.md
+    about: 开始阅读这部小说
+  - name: ❓ 常见问题
+    url: https://github.com/LastShark-CN/异世界魔法泄漏到现实/blob/main/FAQ.md
+    about: 查看常见问题解答
+  - name: 💬 讨论区
+    url: https://github.com/LastShark-CN/异世界魔法泄漏到现实/discussions
+    about: 在讨论区交流想法

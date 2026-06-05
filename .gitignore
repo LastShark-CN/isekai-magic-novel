@@ -1,0 +1,60 @@
+# Git 忽略配置 - 异世界魔法泄漏到现实
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE 和编辑器配置
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 临时文件
+*.tmp
+*.temp
+*.log
+
+# 构建输出
+dist/
+build/
+
+# 环境配置
+.env
+.env.local
+.env.*.local
+
+# Node.js (如果有前端页面)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python (如果有脚本)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+
+# Java (如果有后端)
+*.class
+*.jar
+*.war
+*.ear
+target/
+
+# 文档生成
+docs/_build/
+site/
+
+# 图片缓存
+image/.cache/
+
+# 其他
+*.bak
+*.backup

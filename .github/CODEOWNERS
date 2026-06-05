@@ -1,0 +1,23 @@
+# 代码所有者 (CODEOWNERS)
+
+# 这是 CODEOWNERS 文件，用于定义谁负责审查特定文件或目录的更改
+# 更多信息: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+# 默认情况下，所有文件都需要仓库维护者审查
+* @LastShark-CN
+
+# 小说章节可以由任何贡献者修改，但需要至少一个审查
+/小说/ @LastShark-CN
+
+# 人物档案
+/人物/ @LastShark-CN
+
+# 文档文件
+README.md @LastShark-CN
+CONTRIBUTING.md @LastShark-CN
+LICENSE @LastShark-CN
+
+# 配置文件
+.github/ @LastShark-CN
+.gitignore @LastShark-CN
+.markdownlint.jsonc @LastShark-CN
